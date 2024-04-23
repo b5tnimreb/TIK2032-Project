@@ -1,4 +1,4 @@
-![alt text]("C:\Users\manti\OneDrive\Dokumen\tugas probats\Folder Baru\semm2\RUNNING02\foto.jpg"?raw=true)
+![alt text](https://github.com/b5tnimreb/belajarGIT/blob/main/foto.jpg?raw=true)
 
 
 # TIK2032-Project

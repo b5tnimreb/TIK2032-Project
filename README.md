@@ -1,4 +1,4 @@
-![alt text](https://github.com/b5tnimreb/belajarGIT/blob/main/foto.jpg?raw=true)
+![alt text](https://github.com/b5tnimreb/Joy_mm/blob/main/foto.jpg?raw=true)
 
 
 # TIK2032-Project
